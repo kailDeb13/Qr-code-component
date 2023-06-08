@@ -11,9 +11,9 @@ height: 100vh;
 .qrcode {
 width: 95%;
 background-color: hsl(0, 0%, 100%);
-max-width: 250px;
-padding: 10px;
-border-radius: 15px;
+max-width: 255px;
+padding: 14px;
+border-radius: 18px;
 text-align: center;
 }
 
@@ -24,7 +24,7 @@ height: auto;
 }
 
 h1 {
-font-size: 22px;
+font-size: 23px;
 color: hsl(218, 44%, 22%);
 margin-bottom: 3px;
 }
