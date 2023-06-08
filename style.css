@@ -1,0 +1,34 @@
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: hsl(212, 45%, 89%);
+font-family: 'Outfit', sans-serif;
+font-size: 15px;
+height: 100vh;
+}
+
+.qrcode {
+width: 95%;
+background-color: hsl(0, 0%, 100%);
+max-width: 250px;
+padding: 10px;
+border-radius: 15px;
+text-align: center;
+}
+
+img {
+width: 100%;
+border-radius: 10px;
+height: auto;
+}
+
+h1 {
+font-size: 22px;
+color: hsl(218, 44%, 22%);
+margin-bottom: 3px;
+}
+
+p {
+color: hsl(220, 15%, 55%);
+}
